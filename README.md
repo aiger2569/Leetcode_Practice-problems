@@ -1,2 +1,2 @@
-# Leetcode_JavaScript
-This Repositiries will have the solution of Leetcode AND JavaScript problems and code
+# Leetcode_Practive-problems
+This Repositiries will have the solution of Leetcode AND Programming problems and code
